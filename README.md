@@ -1,16 +1,9 @@
-# act_indiv_dice_roller
+Actividad individual: Luis Gerardo Quezada Pérez A01639796.
 
-A new Flutter project.
+El código que modifiqué fue el del "Dice Roller" que vimos en clase y que fue creado por el profesor. Las modificaciones que realicé fueron las siguientes:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Cambié el color del gradiente
+- El gradiente lo modifiqué a que fuera de izquierda a derecha
+- Cambié el texto de la pantalla de inicio a letras más grandes, la palabara "Roll" se encuentra en letra cursiva, mientras quen la palabra "Dice" se encuentra en letras negritas
+- Agregué un texto debajo que dice "If you dare..."
+- Cada que sale el número 3 en el dado, se aparece la imagen de Pedro
